@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Oz_aggregator\Z_orders.jar</jar>
-  <outfile>C:\Oz_aggregator\Z_orders.exe</outfile>
+  <jar>C:\Z_orders\Z_orders.jar</jar>
+  <outfile>C:\Z_orders\Z_orders.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
